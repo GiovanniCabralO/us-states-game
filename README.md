@@ -1,4 +1,4 @@
-# U.S. States Game 🇺🇸
+# U.S. States Game
 
 Um jogo interativo em Python para adivinhar os 50 estados dos Estados Unidos.  
 O jogo usa a biblioteca **Turtle** para exibir o mapa e **Pandas** para manipular os dados do CSV.
